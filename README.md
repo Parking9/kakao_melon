@@ -42,7 +42,7 @@
 
     
 
-- **Text tokenize **
+- **Text tokenize**
 
   - sentencepiece
 
