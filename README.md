@@ -108,7 +108,15 @@
 
 ## 모델 실행 결과
 
+> 곡과 태그의 정확도 지표는 nDCG를 사용한다. (참조, [DCG_Wiki](https://en.wikipedia.org/wiki/Discounted_cumulative_gain))
 
+
+
+- 리더보드 제출 결과
+
+| 곡 nDCG  | 태그 nDCG |
+| -------- | --------- |
+| 0.054032 | 0.314600  |
 
 
 
